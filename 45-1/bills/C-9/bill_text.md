@@ -1,12 +1,8 @@
 # Bill C-9: An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
-
-[*Deleted*]
 
 create an offence of wilfully promoting hatred against any identifiable group by displaying certain symbols in a public place;
 
@@ -38,7 +34,7 @@ section 423.3 (intimidation â building used for religious worship, etc.),
 
 ### Section 3
 
-Subsection 318(3) of the Act is **replaced by the following:**
+Subsection 318(3) of the Act is replaced by the following:
 
 **(3)** No proceeding shall be instituted under this section without the consent of the Attorney General.
 
@@ -52,7 +48,7 @@ Subsection 318(3) of the Act is **replaced by the following:**
 
       the Nazi Hakenkreuz or the Nazi double Sig-Rune, also known as the SS bolts; or
 
-      a symbol that so nearly resembles a symbol described in paragraph (a) or (b) that it is likely to be **a** symbol **described in paragraph (a) or (b)**.
+      a symbol that so nearly resembles a symbol described in paragraph (a) or (b) that it is likely to be a symbol described in paragraph (a) or (b).
 
     **(2.3)** Everyone who commits an offence under subsection (2.2)
 
@@ -82,8 +78,8 @@ Subsection 318(3) of the Act is **replaced by the following:**
 
   **(3)** Subsection 319(7) of the Act is amended by adding the following in alphabetical order:
 
-    **hatred**âmeans **an** emotion **of an intense and
-extreme nature** that is **clearly associated with**
+    **hatred**âmeans an emotion of an intense and
+extreme nature that is clearly associated with
 vilification and detestation;â(**haine**)
 
 ### Section 5
@@ -150,10 +146,6 @@ The Act is amended by adding the following after section 423.2:
     guilty of an offence punishable on summary conviction.
 
   **(4)** No person is guilty of an offence under subsection (2) by reason only that they attend at or near, or approach, a building or structure referred to in paragraph (1)(a) or a cemetery for the purpose only of obtaining or communicating information.
-
-### Section 7
-
-[*Deleted*]
 
 ### Section 8
 
