@@ -1210,6 +1210,33 @@ No charge alleging the commission of a service infraction, laid before the day o
   **(2)** An inquiry under subsections 249.18(2) and (2.1) of the `National Defence Act`, as they read immediately before the day on which section `40` comes into force, that, immediately before that day, had not been completed, is continued in accordance with those subsections except that the inquiry committee must make its recommendation to the Governor in Council and that the Governor in Council has the power referred to in that subsection 249.18(2) to remove the Director of Defence Counsel Services from office.
 
 
+## Review
+
+### Section 65.1
+
+  **(1)** Within three years after the day on which sections 7 and 8 come into force, the Minister of National Defence must, in consultation with the Minister of Justice, cause an independent review to be undertaken of paragraphs 70(d) to (h) and sections 70.1 to 70.3 of the `National Defence Act` and their application.
+
+  **(2)** Within one year after the review is undertaken, the Minister of National Defence must cause a report on the review to be tabled in each House of Parliament.
+
+  **(3)** The report must be informed by consultations with appropriate authorities in the military and civilian justice systems, victims, advocates, scholars and other stakeholders.
+
+  **(4)** The report must include
+
+    statistics on the number of cases involving offences that were prosecuted in the civilian justice system as a result of paragraphs 70(d) to (h) of the `National Defence Act`, the outcomes of those cases and any other relevant information respecting the application of those paragraphs and sections 70.1 to 70.3 of that Act;
+
+    an evaluation of the services available for members of the Canadian Armed Forces who are victims of offences that were prosecuted in the civilian justice system as a result of paragraphs 70(d) to (h) of that Act;
+
+    an evaluation of the advantages and disadvantages of the application of paragraphs 70(d) to (h) and sections 70.1 to 70.3 of that Act for the military justice system and the authorities in the military justice system, and measures that may be taken to address those disadvantages;
+
+    measures that may be taken to enhance access to justice for members of the Canadian Armed Forces in relation to offences referred to in paragraphs 70(d) to (h) of that Act; and
+
+    the Minister of National Defenceâs opinion as to whether paragraphs 70(d) to (h) and sections 70.1 to 70.3 of that Act should be repealed.
+
+  **(5)** The report stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for the purpose of reviewing the report.
+
+  **(6)** If the report indicates that the Minister of National Defence is of the opinion that paragraphs 70(d) to (h) and sections 70.1 to 70.3 of the `National Defence Act` should be repealed, the Minister may cause to be filed with the Speaker of the Senate and the Speaker of the House of Commons a motion for the adoption by each House of Parliament of a resolution that that House agrees with the Ministerâs opinion and calls on the government to introduce a bill to repeal those paragraphs and sections.
+
+
 ## Coordinating Amendments
 
 ### Section 66
