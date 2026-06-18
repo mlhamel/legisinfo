@@ -1,7 +1,5 @@
 # Bill C-30: An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026
 
-**Sponsor**: MINISTER OF FINANCE AND NATIONAL REVENUE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled â*An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026*â.
 
 ## Summary
@@ -312,11 +310,11 @@ the amount of $10,000 referred to in subparagraph 8(1)(t)(i), for a taxation yea
 
 ### Section 9.2
 
-    If excise tax imposed under section 23 of the Act in respect of a quantity of unleaded gasoline, unleaded aviation gasoline, **leaded aviation gasoline**, diesel fuel or aviation fuel becomes payable at a time that is after April 19, 2026 and before September 8, 2026, the following rules apply in determining the amount of that tax:
+    If excise tax imposed under section 23 of the Act in respect of a quantity of unleaded gasoline, unleaded aviation gasoline, leaded aviation gasoline, diesel fuel or aviation fuel becomes payable at a time that is after April 19, 2026 and before September 8, 2026, the following rules apply in determining the amount of that tax:
 
     the reference to â$0.10â in paragraph 9(a) is to be read as a reference to â$0.00â;
 
-    **the reference to â$0.11â in paragraph 9(b) is to be read as a reference to â$0.00â**; and
+    the reference to â$0.11â in paragraph 9(b) is to be read as a reference to â$0.00â; and
 
     the reference to â$0.04â in section 9.1 is to be read as a reference to â$0.00â.
 
@@ -878,7 +876,7 @@ The Act is amended by adding the following after section 31:
 
   **(3)** Before an order is made under subsection (1), a notice of the proposed order that includes the contents of the proposed order and the proposed duration of the order must be made public.
 
-  **(4)** An order made under subsection (1) must be made public **as soon as practicable**.
+  **(4)** An order made under subsection (1) must be made public as soon as practicable.
 
   **(4.1)** No later than 60 days after the order is made, reasons for making the order must also be made public.
 
@@ -965,7 +963,7 @@ An order must not be made under section 8.1 if doing so would violate any intern
 
 ### Section 8.4
 
-  ****(1)**** An order made under section 8.1 must be made public **as soon as practicable**.
+  **(1)** An order made under section 8.1 must be made public as soon as practicable.
 
   **(2)** No later than 60 days after the order is made, reasons for making the order must also be made public.
 
