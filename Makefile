@@ -14,11 +14,11 @@ help:
 run:
 	@if echo "$(LEGISINFO_SERVER_SOURCE)" | grep -q "git+"; then \
 		echo "Fetching and running from remote: $(LEGISINFO_SERVER_SOURCE)..."; \
-		LEGISINFO_DATA_PATH=$$(pwd) uv run --with "legisinfo-server @ $(LEGISINFO_SERVER_SOURCE)" -- uvicorn legisinfo_server.main:app --host 0.0.0.0 --port 8000; \
+		LEGISINFO_DATA_PATH=$$(pwd) uv run --with "legisinfo-server @ $(LEGISINFO_SERVER_SOURCE)" -- uvicorn legisinfo_server.main:app --host 0.0.0.0 --port 8001; \
 	else \
-		LEGISINFO_DATA_PATH=$$(pwd) uv run --no-cache --with "legisinfo-server @ file://$$(realpath $(LEGISINFO_SERVER_SOURCE))" -- uvicorn legisinfo_server.main:app --host 0.0.0.0 --port 8000; \
+		LEGISINFO_DATA_PATH=$$(pwd) uv run --no-cache --with "legisinfo-server @ file://$$(realpath $(LEGISINFO_SERVER_SOURCE))" -- uvicorn legisinfo_server.main:app --host 0.0.0.0 --port 8001; \
 	fi
 
 docker-run:
 	@echo "Running API server container mounting current directory..."
-	docker run --rm -it -p 8000:8000 -v $$(pwd):/data -e LEGISINFO_DATA_PATH=/data $(DOCKER_IMAGE)
+	docker run --rm -it -p 8001:8000 -v $$(pwd):/data -e LEGISINFO_DATA_PATH=/data $(DOCKER_IMAGE)
